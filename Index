@@ -4,9 +4,16 @@
 
     </head>
     <body>
+     <img src="image.jpg" alt="Description of image">
+    <title > Thomas Bennett Design </title>
+     <img src="image.jpg" alt="Description of image">
+     <img src="image.jpg" alt="Description of image">
 
 
     </body>
+
+    <script>
+    </script> 
 
 
 </HTML>
